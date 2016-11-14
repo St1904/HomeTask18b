@@ -1,5 +1,5 @@
-/**
- * Created by St on 14.11.16.
- */
 public enum Orientation {
+
+    NORTH, WEST, SOUTH, EAST;
+
 }
